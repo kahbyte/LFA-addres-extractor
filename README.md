@@ -1,2 +1,6 @@
-# LFA-addres-extractor
-Entrega do EP 2 - Extrator de Endereços respeitando os seguintes critérios https://crivelaro.notion.site/RegEx-Extrator-de-Endere-os-c9592ac37eb54319ad46ce63835246e1?pvs=4
+# EP2: RegEx extratora de endereços
+
+Esse programa implementa uma RegEx em Ruby capaz de reconhecer endereços de acordo com o formato padrão dos Correios.
+
+## Apresentação em Slides
+https://www.canva.com/design/DAGA6oRSLDQ/Azre8m1xkNwDNDqB8fU44w/edit?utm_content=DAGA6oRSLDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
